@@ -49,4 +49,4 @@ Then open Expo Go on your phone, or press w for web.
 
 ## Contact
 
-Artem Shapovalov — Wertyjon2@gmail.com — [github.com/artem-shap](https://github.com/artem-shap)
+Artem Shapovalov — [portfolio](https://artem-portfolio-ebon.vercel.app) — Wertyjon2@gmail.com
