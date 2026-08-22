@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.astro/
+.expo/
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.claude/
+.vscode/
+.idea/
