@@ -259,6 +259,24 @@ const TOOLS: Tool[] = [
     ],
     url: 'https://www.make.com',
   },
+  {
+    id: 'agent-qa',
+    name: 'agent-qa',
+    tagline: 'AI testing with persistent memory and self-improvement',
+    category: 'Development',
+    pricing: 'Model costs vary',
+    platform: 'CLI · MCP',
+    color: '#8B7BF0',
+    icon: 'checkmark-circle',
+    description:
+      'agent-qa by vostride tests web, Android, and iOS apps from natural-language instructions. Its memidex memory preserves reusable project knowledge, while validated run lessons and feedback support self-improvement. CLI and local MCP access provide reviewable run evidence. Model and optional device-service costs depend on configuration and usage.',
+    bestFor: [
+      'Testing web and mobile application flows',
+      'Reusing project knowledge across test runs',
+      'Inspecting failures and evidence with coding agents',
+    ],
+    url: 'https://vostride.com',
+  },
 ];
 
 const CATEGORIES = ['All', 'Saved', ...Array.from(new Set(TOOLS.map((t) => t.category)))];
